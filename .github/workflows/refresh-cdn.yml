@@ -12,4 +12,4 @@ jobs:
       - name: Purge jsDelivr cache
         run: |
           curl -sS -o /dev/null -w "purge status: %{http_code}\n" \
-            "https://purge.jsdelivr.net/gh/136435954/jijia-rank-dashboard-dist@main"
+            "https://purge.jsdelivr.net/gh/136435954/jijia-rank-dashboard-dist@main/README.md"

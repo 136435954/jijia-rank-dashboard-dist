@@ -179,4 +179,4 @@ A：v1.8.0 起站点选择改为下拉框（可多选）：不选 = 全部站点
 注意：软件表格与下载的 Excel 均按该格式填充；默认格式与亚马逊后台展示一致。修改后立即生效并自动保存。
 
 <!-- build/state: ok -->
-<!-- build/version: 1.15.0,url=https://github.com/136435954/jijia-rank-dashboard-dist/releases/tag/v1.15.0 -->
+<!-- build/version: 1.15.1,url=https://github.com/136435954/jijia-rank-dashboard-dist/releases/tag/v1.15.1 -->

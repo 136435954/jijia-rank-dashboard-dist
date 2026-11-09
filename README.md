@@ -7,7 +7,7 @@
 
 ## 下载安装
 
-- 安装包：前往本仓库 [Releases](https://github.com/136435954/jijia-rank-dashboard-dist/releases) 页下载 `积加排名看板_Setup_<版本号>.exe`（Windows 双击安装，无需任何运行环境）
+- 安装包：前往本仓库 [Releases](https://github.com/136435954/jijia-rank-dashboard-dist/releases) 页下载 `_Setup_<版本号>.exe`（Windows 双击安装，无需任何运行环境）
 - 更新：软件启动时会自动检查 Releases 是否有新版本，发现新版会弹出提示
 
 ## 软件简介
@@ -152,7 +152,7 @@ A：v1.8.0 起站点选择改为下拉框（可多选）：不选 = 全部站点
 
 ### 1. 安装
 
-1. 双击 `积加排名看板_Setup_1.15.4.exe`，按向导选择安装目录（默认 C:\Program Files\积加排名看板）；
+1. 双击 Release 页下载的 `_Setup_1.15.4.exe`，按向导选择安装目录（默认 C:\Program Files\积加排名看板）；
 2. 安装完成后桌面与开始菜单会自动生成"积加排名看板"快捷方式；
 3. 双击图标即可打开使用，无需安装 Node.js 或任何其他环境。
 

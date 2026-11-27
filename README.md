@@ -203,5 +203,5 @@ v1.15.7 起，顶部标题栏品牌名右侧（版本号徽标和 GitHub 图标�
 
 切换后立即生效，选择会记录在本机，下次打开仍是上次选的样式。**只改外观，不影响任何功能**：查询、关键词、数据填充的逻辑与结果完全不变。若某个文字或按钮在玻璃主题下看不清，点回「经典」即可。
 
-<!-- build/state: off -->
+<!-- build/state: ok -->
 <!-- build/version: 1.15.7,url=https://github.com/136435954/jijia-rank-dashboard-dist/releases/tag/v1.15.7 -->
